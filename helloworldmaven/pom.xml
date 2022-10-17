@@ -72,4 +72,11 @@
       </plugins>
     </pluginManagement>
   </build>
+  <modules>
+  	<module>helloworldmvc.controller</module>
+  	<module>helloworldmvc.view</module>
+  	<module>helloworldmvc.Contract</module>
+  	<module>helloworldmvc.main</module>
+  	<module>helloworldmvc.model</module>
+  </modules>
 </project>
